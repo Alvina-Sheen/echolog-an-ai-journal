@@ -104,7 +104,9 @@ helping users keep track of activities and responsibilities.
 
 -   **Backend:** Python, Django
 -   **Frontend:** HTML, CSS, JavaScript
--   **Database:** MySQL
+-   **Database:** MySQL Workbench
+-   **NLP Tools/Libraries:** TextBlob, DistilBERT
+-   **AI Tools:** OpenWisperAI
 
 ## Social Impact
 
